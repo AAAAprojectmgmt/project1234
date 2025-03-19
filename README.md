@@ -1,1 +1,6 @@
-# project1234
+#include<stdio.h>
+
+main()
+{
+    printf("Hello");
+}
